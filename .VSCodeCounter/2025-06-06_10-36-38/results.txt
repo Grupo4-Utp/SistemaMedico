@@ -1,0 +1,80 @@
+Date : 2025-06-06 10:36:38
+Directory : c:\xampp\htdocs\integrador
+Total : 48 files,  3192 codes, 59 comments, 388 blanks, all 3639 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| PHP      |         40 |      2,923 |         42 |        363 |      3,328 |
+| MS SQL   |          1 |        150 |         17 |         20 |        187 |
+| XML      |          6 |         77 |          0 |          0 |         77 |
+| HTML     |          1 |         42 |          0 |          5 |         47 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                            | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                               |         48 |      3,192 |         59 |        388 |      3,639 |
+| . (Files)                                                       |         37 |      2,918 |         56 |        366 |      3,340 |
+| .idea                                                           |          6 |         77 |          0 |          0 |         77 |
+| .idea (Files)                                                   |          4 |         65 |          0 |          0 |         65 |
+| .idea\codeStyles                                                |          2 |         12 |          0 |          0 |         12 |
+| includes                                                        |          5 |        197 |          3 |         22 |        222 |
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                        | language | code       | comment    | blank      | total      |
++-----------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\xampp\htdocs\integrador\.idea\codeStyles\Project.xml         | XML      |          7 |          0 |          0 |          7 |
+| c:\xampp\htdocs\integrador\.idea\codeStyles\codeStyleConfig.xml | XML      |          5 |          0 |          0 |          5 |
+| c:\xampp\htdocs\integrador\.idea\integrador.iml                 | XML      |          9 |          0 |          0 |          9 |
+| c:\xampp\htdocs\integrador\.idea\misc.xml                       | XML      |          6 |          0 |          0 |          6 |
+| c:\xampp\htdocs\integrador\.idea\modules.xml                    | XML      |          8 |          0 |          0 |          8 |
+| c:\xampp\htdocs\integrador\.idea\workspace.xml                  | XML      |         42 |          0 |          0 |         42 |
+| c:\xampp\htdocs\integrador\acceso.php                           | PHP      |        100 |          0 |         10 |        110 |
+| c:\xampp\htdocs\integrador\captcha.php                          | PHP      |         34 |          0 |         12 |         46 |
+| c:\xampp\htdocs\integrador\consultas.php                        | PHP      |         67 |          0 |          6 |         73 |
+| c:\xampp\htdocs\integrador\consultas_crear.php                  | PHP      |         74 |          0 |          6 |         80 |
+| c:\xampp\htdocs\integrador\consultas_editar.php                 | PHP      |         89 |          0 |          8 |         97 |
+| c:\xampp\htdocs\integrador\consultas_eliminar.php               | PHP      |         15 |          0 |          4 |         19 |
+| c:\xampp\htdocs\integrador\crear_usuario.php                    | PHP      |         13 |          0 |          3 |         16 |
+| c:\xampp\htdocs\integrador\dashboard.php                        | PHP      |        155 |          1 |         23 |        179 |
+| c:\xampp\htdocs\integrador\exportar_reportes.php                | PHP      |         53 |          0 |         15 |         68 |
+| c:\xampp\htdocs\integrador\historial.php                        | PHP      |        104 |          0 |          9 |        113 |
+| c:\xampp\htdocs\integrador\includes\auth.php                    | PHP      |         38 |          1 |          8 |         47 |
+| c:\xampp\htdocs\integrador\includes\db.php                      | PHP      |         16 |          0 |          4 |         20 |
+| c:\xampp\htdocs\integrador\includes\footer.php                  | PHP      |          6 |          0 |          1 |          7 |
+| c:\xampp\htdocs\integrador\includes\fuctions.php                | PHP      |         34 |          1 |          4 |         39 |
+| c:\xampp\htdocs\integrador\includes\navbar.php                  | PHP      |        103 |          1 |          5 |        109 |
+| c:\xampp\htdocs\integrador\login.php                            | PHP      |        186 |          0 |         22 |        208 |
+| c:\xampp\htdocs\integrador\logout.php                           | PHP      |          6 |          0 |          4 |         10 |
+| c:\xampp\htdocs\integrador\medico.php                           | PHP      |         95 |          0 |         11 |        106 |
+| c:\xampp\htdocs\integrador\medico_add.php                       | PHP      |         32 |          0 |          4 |         36 |
+| c:\xampp\htdocs\integrador\medico_editar.php                    | PHP      |         70 |          1 |          9 |         80 |
+| c:\xampp\htdocs\integrador\medico_eliminar.php                  | PHP      |         15 |          0 |          4 |         19 |
+| c:\xampp\htdocs\integrador\meta_agregar.php                     | PHP      |         14 |          0 |          4 |         18 |
+| c:\xampp\htdocs\integrador\meta_editar.php                      | PHP      |         56 |          0 |          9 |         65 |
+| c:\xampp\htdocs\integrador\meta_eliminar.php                    | PHP      |         10 |          0 |          4 |         14 |
+| c:\xampp\htdocs\integrador\metas.php                            | PHP      |         79 |          1 |          6 |         86 |
+| c:\xampp\htdocs\integrador\notificaciones.php                   | PHP      |        100 |          4 |         10 |        114 |
+| c:\xampp\htdocs\integrador\pacientes.php                        | PHP      |        179 |          7 |         19 |        205 |
+| c:\xampp\htdocs\integrador\procedimiento.php                    | PHP      |        129 |          3 |         18 |        150 |
+| c:\xampp\htdocs\integrador\procedimiento_editar.php             | PHP      |        143 |          3 |         18 |        164 |
+| c:\xampp\htdocs\integrador\procedimineto_eliminar.php           | PHP      |         15 |          0 |          4 |         19 |
+| c:\xampp\htdocs\integrador\programas.php                        | PHP      |        110 |          4 |         10 |        124 |
+| c:\xampp\htdocs\integrador\recuperar_contrasena.php             | PHP      |        155 |          0 |         18 |        173 |
+| c:\xampp\htdocs\integrador\registro.html                        | HTML     |         42 |          0 |          5 |         47 |
+| c:\xampp\htdocs\integrador\reportes.php                         | PHP      |         86 |          1 |         14 |        101 |
+| c:\xampp\htdocs\integrador\reset_password.php                   | PHP      |         97 |          3 |         13 |        113 |
+| c:\xampp\htdocs\integrador\seguridad.php                        | PHP      |         68 |          2 |          7 |         77 |
+| c:\xampp\htdocs\integrador\sistema_medico.sql                   | MS SQL   |        150 |         17 |         20 |        187 |
+| c:\xampp\htdocs\integrador\usuarios.php                         | PHP      |        211 |          9 |         26 |        246 |
+| c:\xampp\htdocs\integrador\visita_delete.php                    | PHP      |         11 |          0 |          2 |         13 |
+| c:\xampp\htdocs\integrador\visita_form.php                      | PHP      |         74 |          0 |          4 |         78 |
+| c:\xampp\htdocs\integrador\visita_save.php                      | PHP      |         26 |          0 |          3 |         29 |
+| c:\xampp\htdocs\integrador\visitas.php                          | PHP      |         55 |          0 |          2 |         57 |
+| Total                                                           |          |      3,192 |         59 |        388 |      3,639 |
++-----------------------------------------------------------------+----------+------------+------------+------------+------------+
