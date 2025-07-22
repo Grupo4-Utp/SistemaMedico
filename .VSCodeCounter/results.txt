@@ -1,0 +1,69 @@
+Date : 2025-07-21 23:36:19
+Directory : c:\Users\FLAMES\Downloads\integrador
+Total : 37 files,  5432 codes, 232 comments, 589 blanks, all 6253 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| PHP      |         28 |      4,886 |        168 |        536 |      5,590 |
+| MS SQL   |          2 |        427 |         64 |         48 |        539 |
+| XML      |          6 |         77 |          0 |          0 |         77 |
+| HTML     |          1 |         42 |          0 |          5 |         47 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                      | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                         |         37 |      5,432 |        232 |        589 |      6,253 |
+| . (Files)                                                                 |         26 |      5,157 |        224 |        565 |      5,946 |
+| .idea                                                                     |          6 |         77 |          0 |          0 |         77 |
+| .idea (Files)                                                             |          4 |         65 |          0 |          0 |         65 |
+| .idea\codeStyles                                                          |          2 |         12 |          0 |          0 |         12 |
+| includes                                                                  |          5 |        198 |          8 |         24 |        230 |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                  | language | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\FLAMES\Downloads\integrador\.idea\codeStyles\Project.xml         | XML      |          7 |          0 |          0 |          7 |
+| c:\Users\FLAMES\Downloads\integrador\.idea\codeStyles\codeStyleConfig.xml | XML      |          5 |          0 |          0 |          5 |
+| c:\Users\FLAMES\Downloads\integrador\.idea\integrador.iml                 | XML      |          9 |          0 |          0 |          9 |
+| c:\Users\FLAMES\Downloads\integrador\.idea\misc.xml                       | XML      |          6 |          0 |          0 |          6 |
+| c:\Users\FLAMES\Downloads\integrador\.idea\modules.xml                    | XML      |          8 |          0 |          0 |          8 |
+| c:\Users\FLAMES\Downloads\integrador\.idea\workspace.xml                  | XML      |         42 |          0 |          0 |         42 |
+| c:\Users\FLAMES\Downloads\integrador\acceso.php                           | PHP      |        100 |          0 |         10 |        110 |
+| c:\Users\FLAMES\Downloads\integrador\captcha.php                          | PHP      |         34 |          0 |         12 |         46 |
+| c:\Users\FLAMES\Downloads\integrador\consulta_detalle.php                 | PHP      |         22 |          0 |          8 |         30 |
+| c:\Users\FLAMES\Downloads\integrador\consultas.php                        | PHP      |        303 |         14 |         26 |        343 |
+| c:\Users\FLAMES\Downloads\integrador\dashboard.php                        | PHP      |        104 |          1 |         16 |        121 |
+| c:\Users\FLAMES\Downloads\integrador\establecimiento_detalle.php          | PHP      |         22 |          0 |          7 |         29 |
+| c:\Users\FLAMES\Downloads\integrador\establecimientos.php                 | PHP      |        268 |         12 |         26 |        306 |
+| c:\Users\FLAMES\Downloads\integrador\historial.php                        | PHP      |        233 |          7 |         23 |        263 |
+| c:\Users\FLAMES\Downloads\integrador\includes\auth.php                    | PHP      |         46 |          2 |         10 |         58 |
+| c:\Users\FLAMES\Downloads\integrador\includes\db.php                      | PHP      |         17 |          1 |          3 |         21 |
+| c:\Users\FLAMES\Downloads\integrador\includes\footer.php                  | PHP      |          6 |          0 |          1 |          7 |
+| c:\Users\FLAMES\Downloads\integrador\includes\fuctions.php                | PHP      |         36 |          4 |          4 |         44 |
+| c:\Users\FLAMES\Downloads\integrador\includes\navbar.php                  | PHP      |         93 |          1 |          6 |        100 |
+| c:\Users\FLAMES\Downloads\integrador\login.php                            | PHP      |        265 |          8 |         31 |        304 |
+| c:\Users\FLAMES\Downloads\integrador\logout.php                           | PHP      |          8 |          2 |          3 |         13 |
+| c:\Users\FLAMES\Downloads\integrador\medicos.php                          | PHP      |        385 |         10 |         24 |        419 |
+| c:\Users\FLAMES\Downloads\integrador\metas.php                            | PHP      |        468 |         20 |         52 |        540 |
+| c:\Users\FLAMES\Downloads\integrador\notificaciones.php                   | PHP      |        231 |          5 |         25 |        261 |
+| c:\Users\FLAMES\Downloads\integrador\pacientes.php                        | PHP      |        322 |         10 |         33 |        365 |
+| c:\Users\FLAMES\Downloads\integrador\pacientes_ajax.php                   | PHP      |         38 |          0 |          6 |         44 |
+| c:\Users\FLAMES\Downloads\integrador\procedimientos.php                   | PHP      |        341 |          6 |         25 |        372 |
+| c:\Users\FLAMES\Downloads\integrador\programas.php                        | PHP      |        244 |          8 |         28 |        280 |
+| c:\Users\FLAMES\Downloads\integrador\recuperar_contrasena.php             | PHP      |        163 |          5 |         20 |        188 |
+| c:\Users\FLAMES\Downloads\integrador\registro.html                        | HTML     |         42 |          0 |          5 |         47 |
+| c:\Users\FLAMES\Downloads\integrador\reportes.php                         | PHP      |        222 |          2 |         23 |        247 |
+| c:\Users\FLAMES\Downloads\integrador\reset_password.php                   | PHP      |         98 |          3 |         13 |        114 |
+| c:\Users\FLAMES\Downloads\integrador\seguridad.php                        | PHP      |        131 |          5 |         18 |        154 |
+| c:\Users\FLAMES\Downloads\integrador\sistema_medico.sql                   | MS SQL   |         38 |         36 |         17 |         91 |
+| c:\Users\FLAMES\Downloads\integrador\sql.sql                              | MS SQL   |        389 |         28 |         31 |        448 |
+| c:\Users\FLAMES\Downloads\integrador\usuarios.php                         | PHP      |        397 |         33 |         54 |        484 |
+| c:\Users\FLAMES\Downloads\integrador\visitas.php                          | PHP      |        289 |          9 |         29 |        327 |
+| Total                                                                     |          |      5,432 |        232 |        589 |      6,253 |
++---------------------------------------------------------------------------+----------+------------+------------+------------+------------+
